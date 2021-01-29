@@ -1,3 +1,5 @@
+# Powershell script to add all the Google country domains to a Windows DNS server and add the entries to force safesearch on
+
 # Your Windows DNS Server
 $dnsServer = "myDNS"
 
